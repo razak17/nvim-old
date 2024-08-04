@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/razakmo/Programming/Dev/projects/react/react-graphql-app/react-graphql-server/models'
+let g:netrw_dirhist_5='/home/razakmo/Programming/Dev/projects/react/react-graphql-app/react-graphql-server/config'
+let g:netrw_dirhist_4='/home/razakmo/Programming/Dev/projects/react/react-graphql-app/react-graphql-server'
+let g:netrw_dirhist_3='/home/razakmo/Programming/Dev/projects/react/react-graphql-app/react-graphql-server/middleware'
+let g:netrw_dirhist_2='/home/razakmo/Programming/Dev/projects/react/react-graphql-app/react-graphql-server'
+let g:netrw_dirhist_1='/home/razakmo/Programming/Dev/projects/react/react-graphql-app/react-graphql-server/config'
+let g:netrw_dirhist_0='/home/razakmo/Programming/Dev/projects/react/react-graphql-app/react-graphql-server'
+let g:netrw_dirhist_9='/home/razakmo/.config/zsh'
+let g:netrw_dirhist_8='/home/razakmo/.config/nvim/general'
+let g:netrw_dirhist_7='/home/razakmo/.config/nvim'
